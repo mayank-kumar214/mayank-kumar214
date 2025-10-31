@@ -7,7 +7,7 @@ I joined this field because of my interest in data, but along the way I discover
 My long-term goal is to **build impactful solutions in AI and Data Science** that make a real difference.  
 
 🔭 I’m currently working on: **Galaxy Classification using Machine Learning**  
-⭐ Fav Project (so far): **Hangman Game (Java)**  
+⭐ Fav Project (so far): **code-companion**  
 
 ---
 
