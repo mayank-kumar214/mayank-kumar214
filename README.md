@@ -54,6 +54,9 @@ My long-term goal is to **build impactful solutions in AI and Data Science** tha
 
 # 📊 GitHub Stats:
 
+<div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-kumar214&layout=compact&theme=tokyonight)
 
+</div> 
 ---
