@@ -6,7 +6,7 @@ I'm **Mayank Kumar**, a third-year **Computer Science (Data Science specializati
 I joined this field because of my interest in data, but along the way I discovered a passion for problem solving, which keeps me curious and motivated every day.
 My long-term goal is to **build impactful solutions in AI and Data Science** that make a real difference.  
 
-🔭 I’m currently working on: **Galaxy Classification using Machine Learning**  
+🔭 I’m currently working on: **Cat VS Dog Image Classifier**  
 ⭐ Fav Project (so far): **code-companion**  
 
 ---
