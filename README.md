@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 
 Hi! Welcome to my GitHub landing page 👋  
 
@@ -49,15 +49,5 @@ My long-term goal is to **build impactful solutions in AI and Data Science** tha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayankconnects)
 
 </div> 
-
----
-
-# 📊 GitHub Stats:
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats-beta-one-32.vercel.app/api/top-langs/?username=mayank-kumar214&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
