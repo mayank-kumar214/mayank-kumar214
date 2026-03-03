@@ -93,7 +93,17 @@ Feel free to reach out!
 
 <p align="left">
   <a href="https://linkedin.com/in/mayankconnects" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="LinkedIn" 
+         height="30" 
+         width="40" />
+  </a>
+
+  <a href="mailto:iammayank214@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
+         alt="Gmail" 
+         height="30" 
+         width="40" />
   </a>
 </p>
 
