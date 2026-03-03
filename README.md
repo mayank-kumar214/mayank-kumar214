@@ -1,11 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mayank Kumar</h1>
 
-<h3 align="center">
-🚀 3rd Year Computer Science (Data Science) Student | 💻 Problem Solver | 🤖 AI/ML Enthusiast
-</h3>
-
-<p align="center">
-I joined this field because of my interest in data, but along the way I discovered a passion for problem solving, which keeps me curious and motivated every day. My long-term goal is to build impactful solutions in AI and Data Science that make a real difference. 
+I'm **Mayank Kumar**, a third-year **Computer Science (Data Science specialization)** student. I joined this field because of my interest in data, but along the way I discovered a passion for problem solving, which keeps me curious and motivated every day.
+My long-term goal is to **build impactful solutions in AI and Data Science** that make a real difference. 
 <br><br>
 🔭 Currently working on: <strong>Cat VS Dog Image Classifier</strong> &nbsp;|&nbsp; ⭐ Fav Project: <strong>code-companion</strong>
 </p>
