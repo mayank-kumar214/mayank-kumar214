@@ -3,9 +3,7 @@
 I'm **Mayank Kumar**, a third-year **Computer Science (Data Science specialization)** student. I joined this field because of my interest in data, but along the way I discovered a passion for problem solving, which keeps me curious and motivated every day.
 My long-term goal is to **build impactful solutions in AI and Data Science** that make a real difference. 
 <br><br>
-🔭 Currently working on: <strong>semantic-book-recommender</strong> &nbsp;|&nbsp; 
-<br><br>
-⭐ Fav Project: <strong>code-companion</strong>
+🔭 Currently working on: <strong>semantic-book-recommender</strong> &nbsp;|&nbsp;⭐ Fav Project: <strong>code-companion</strong>
 </p>
 
 ---
