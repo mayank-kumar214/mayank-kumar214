@@ -109,15 +109,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayankconnects/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
   &nbsp;
   <a href="mailto:iammayank214@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-E4405F?style=for-the-badge&logo=email&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
   &nbsp;
   <a href="https://discord.com/users/maybemayank" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=discord&theme=light" />
   </a>
 </p>
 
